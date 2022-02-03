@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @issei0420
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Algorithm and data structure　in Python
+- 🌱 I’m currently learning Algorithm and data structure in Python
 - 💞️ I’m participating in an internship at Tokyo
 - 📫 How to reach me ... https://www.facebook.com/profile.php?id=100034901199925
